@@ -1,5 +1,4 @@
-# The recorded videos for past events
-<br>
+# The recorded videos for past events <br>
 ## 3-DevOps Open Source and Open Q&A May 9, 2020 
 [![How to become a DevOps](/assets/mics/OpenSource-Event-2.png)](https://www.youtube.com/watch?v=JOwX2rO-csI)
 <br><br><br>
