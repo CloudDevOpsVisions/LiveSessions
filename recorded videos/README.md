@@ -1,4 +1,7 @@
 # The recorded videos for past events <br>
+## 4-CICD Build Test and Deploy to The Cloud With Azure Pipelines as Code May 16, 2020
+[![CI/CD as code using YAML](/assets/mics/YAML-Event-3.png)](https://www.youtube.com/watch?v=JOwX2rO-csI)
+<br><br><br>
 ## 3-DevOps Open Source and Open Q&A May 9, 2020 
 [![How to become a DevOps](/assets/mics/OpenSource-Event-2.png)](https://www.youtube.com/watch?v=JOwX2rO-csI)
 <br><br><br>
