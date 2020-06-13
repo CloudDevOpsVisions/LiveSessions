@@ -1,5 +1,4 @@
 # LiveSessions
-<br><br><br>
 # The recorded videos for past events <br>
 ## 6-DevOps Open Source and Open Q&A June 6, 2020
 [![DevOps Open Source and Open Q&A](/assets/mics/OpenSource-Event-3.png)](https://youtu.be/nSSHmtDMJck)
