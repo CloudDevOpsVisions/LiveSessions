@@ -1,9 +1,12 @@
 # LiveSessions
 # The recorded videos for past events <br>
 --------------------
-
+?raw=true
+## 8-Mastering Time Management- Sharing Thoughts From an Expert Oct 22, 2020
+[![Mastering Time Management- Sharing Thoughts From an Expert](/assets/mics/Time-Management.png)](https://youtu.be/LgWeUO1oHo0)
+<br><br><br>
 ## 7-The Road to Microsoft MVP Award! Jul 20, 2020
-[![Exploring Databricks and Delta Lake](https://user-images.githubusercontent.com/49816567/104467079-f65b5b80-55c6-11eb-86ea-ff67afaaef58.jpg)](https://youtu.be/0496IeWGmcs)
+[![The Road to Microsoft MVP Award!](https://user-images.githubusercontent.com/49816567/104467079-f65b5b80-55c6-11eb-86ea-ff67afaaef58.jpg)](https://youtu.be/0496IeWGmcs)
 <br><br><br>
 ## 6-DevOps Open Source and Open Q&A June 6, 2020
 [![DevOps Open Source and Open Q&A](/assets/mics/OpenSource-Event-3.png)](https://youtu.be/nSSHmtDMJck)
