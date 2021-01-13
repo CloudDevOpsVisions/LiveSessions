@@ -1,5 +1,10 @@
 # LiveSessions
 # The recorded videos for past events <br>
+--------------------
+
+## 7-The Road to Microsoft MVP Award! Jul 20, 2020
+[![Exploring Databricks and Delta Lake](https://user-images.githubusercontent.com/49816567/104467079-f65b5b80-55c6-11eb-86ea-ff67afaaef58.jpg)](https://youtu.be/740Rxv2I3xw)
+<br><br><br>
 ## 6-DevOps Open Source and Open Q&A June 6, 2020
 [![DevOps Open Source and Open Q&A](/assets/mics/OpenSource-Event-3.png)](https://youtu.be/nSSHmtDMJck)
 <br><br><br>
