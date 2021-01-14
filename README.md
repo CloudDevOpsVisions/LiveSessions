@@ -1,7 +1,10 @@
 # LiveSessions
 # The recorded videos for past events <br>
 --------------------
-?raw=true
+## 9-Exploring Databricks and Delta Lake Jan 13, 2021
+[![Exploring Databricks and Delta Lake](/assets/mics/Exploring%20Databricks%20and%20Delta%20Lake.png)](https://youtu.be/tE4d6f4Thzk)
+<br><br><br>
+
 ## 8-Mastering Time Management- Sharing Thoughts From an Expert Oct 22, 2020
 [![Mastering Time Management- Sharing Thoughts From an Expert](/assets/mics/Time-Management.png)](https://youtu.be/LgWeUO1oHo0)
 <br><br><br>
