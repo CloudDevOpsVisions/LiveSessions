@@ -1,4 +1,4 @@
-# LiveSessions
+# Live Sessions
 # The recorded videos for past events <br>
 --------------------
 ## 9-Exploring Databricks and Delta Lake Jan 13, 2021
